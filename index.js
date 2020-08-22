@@ -1,7 +1,7 @@
 var Telegram = require('node-telegram-bot-api')
 
 var telegramToken = '1130098879:AAFZUte1_NwetoTVTcP4eJTx9oL-Ti7wDEo'
-var answer = 'Жив, здоров, содержится в лагере'
+var answer = 'Жив, здоров, содержится в лагере.'
 
 // с этого момента программа подключается к серверу telegram
 // и начнет принимать данные и ждать от нас команд
