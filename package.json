@@ -11,10 +11,6 @@
   }
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ellinagennadievna/tg_ne_m/issues"
-  },
-  "homepage": "https://github.com/ellinagennadievna/tg_ne_m#readme",
   "dependencies": {
     "node-telegram-bot-api": "^0.50.0"
   }
